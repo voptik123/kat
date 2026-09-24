@@ -7,5 +7,4 @@
 ###*kat -big: displays big cat
 ###*kat -say: says what you type
 ###*kat -ver: displays default cat with version number
-###*kat -help: displays commands
-#**I HAVENT USED AI!!!!!!!!!!!**
+###*kat -help: displays command
